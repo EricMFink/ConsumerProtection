@@ -8,10 +8,10 @@ email: efink@elon.edu
 phone: 336-279-9334
 address1: 201 North Greene Street
 address2: Greensboro, North Carolina 27401
-course: 'Course Template'
-term: 'Fall 2019'
-days: 'Monday & Wednesday, 9:00 – 10:45 am'
-room: 'Room 207'
+course: Consumer Protection
+term: Winter 2018
+days: Tuesdays & Thursdays, 8:30 - 10:30 am
+room: Room B106
 
 output: 
   pdf_document:
@@ -22,19 +22,21 @@ output:
 
 # Description
 
-This is a description of the course, including topics covered and learning outcomes. 
+This course surveys federal and state laws regulating consumer purchases and finance. After completing the course, you should have a general understanding of consumer law (including sources of law, scope of coverage, enforcement mechanisms, and available remedies). The problem-solving approach is intended to develop practical skills for advising and representing clients in consumer transactions and disputes.
+
+# Materials
+
+Katherine Porter, Modern Consumer Law (Aspen 2016) ("Casebook")
+
+The course website, [`emfink.net/ConsumerProtection`](https://www.emfink.net/ConsumerProtection), has subject outlines, visual aids, practice problems, and links to statutes and other resources. 
 
 # Policies 
 
 #### Grading
 
-Your final grade for the term will be based on unit quizzes (5% each; 20% total), a final exam (70%), and in-class performance (10%). 
+Your final grade for the course will be based on written problem assignments (60%) and in-class performance (40%). There will be no final exam for this course. 
 
-The quizzes will consist of multiple choice questions. These will be given in class and will be open-book/open-notes. Dates for the quizzes will be announced at least one week in advance. 
-
-The final exam will consist of essay and short-answer questions. It will be given during the final exam period and will be closed-book/closed-notes. 
-
-The in-class performance component depends on your preparation before class (completing all assigned reading and reviewing simulation problems), regular and prompt class attendance, and constructive engagement during class. Elon Law School's standards and ABA guidance for awarding course credit assume at least two hours of out-of-class student work for each hour of classroom instruction.
+The in-class performance component depends on your preparation before class (completing all assigned reading and reviewing problems), regular and prompt class attendance, and constructive engagement during class. Elon Law School's standards and ABA guidance for awarding course credit assume at least two hours of out-of-class student work for each hour of classroom instruction.
 
 #### Attendance 
 
@@ -53,13 +55,6 @@ For disability accommodation requests, contact the Elon Law [Registrar's Office]
 #### Honor Code 
 
 The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-code.html) applies to all activities related to your law school study, including conduct during class and examinations. 
-
-# Materials
-
-Gerald Hess, et al, Civil Procedure: A Context & Practice Casebook (Carolina Academic Press, 2d ed. 2019)
-
-The course website, [`emfink.net/CourseTemplate`](https://www.emfink.net/CourseTemplate), has subject outlines, visual aids, practice problems, and links to statutes and other resources. 
-
 
 # Outline & Assignments
 
