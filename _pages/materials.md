@@ -18,7 +18,6 @@ title: Materials
 
 [Winston]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/visuals/winston_ad.jpg)
 
-
 ## Law School UDAP Suits
 
 [Ash v. Charlotte School of Law (Complaint)]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/cases/Ash.pdf)
