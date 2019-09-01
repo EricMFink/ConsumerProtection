@@ -80,13 +80,13 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 - Casebook, Chapter 6
 
-- Kelly Gates, [The Securitization of Financial Identity]({{ site.baseurl }}/materials/articles/Gates_SecuritizationOfFinancialIdentity.pdf), 20 Journal of Communication Inquiry 1 (2010)
+- Kelly Gates, [The Securitization of Financial Identity]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/articles/Gates_SecuritizationOfFinancialIdentity.pdf), 20 Journal of Communication Inquiry 1 (2010)
 
 ### Credit Reporting & Discrimination
 
 - Casebook, Chapters 7 & 8
 
-- Josh Lauer, [The Good Consumer: Credit Reporting & the Invention of Financial Identity in the United States, 1840-1940]({{ site.baseurl }}/materials/articles/Lauer_TheGoodConsumer.pdf), 11 Enterprise & Society 686 (2010)
+- Josh Lauer, [The Good Consumer: Credit Reporting & the Invention of Financial Identity in the United States, 1840-1940]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/articles/Lauer_TheGoodConsumer.pdf), 11 Enterprise & Society 686 (2010)
 
 ##### Problems 6.1, 7.1, & 8.1, due January 22
 
@@ -118,9 +118,9 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 - Casebook, Chapters 17 & 18
 
-- CFPB, [Payday Loans & Deposit Advance Products]({{ site.baseurl }}/materials/articles/CFPB_PaydayLoans.pdf) (2013)
+- CFPB, [Payday Loans & Deposit Advance Products]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/articles/CFPB_PaydayLoans.pdf) (2013)
 
-- Louise Seamster & Raphaël Charron-Chénier, [Predatory Inclusion & Education Debt: Rethinking the Racial Wealth Gap]({{ site.baseurl }}/materials/articles/Seamster_PredatoryInclusion.pdf), 4 Social Currents 199 (2017)
+- Louise Seamster & Raphaël Charron-Chénier, [Predatory Inclusion & Education Debt: Rethinking the Racial Wealth Gap]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/articles/Seamster_PredatoryInclusion.pdf), 4 Social Currents 199 (2017)
 
 ### Banking Transactions
 
