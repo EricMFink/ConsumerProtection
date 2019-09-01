@@ -12,11 +12,11 @@ title: Materials
 
 ## Advertising
 
-[L'Oreal]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/visuals/loreal_ad.jpg)
+[L'Oreal]({{ site.baseurl }}/{{ site.baseurl }}/assets/visuals/loreal_ad.jpg)
 
-[Pepsi]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/visuals/PepsiAd.mp4)
+[Pepsi]({{ site.baseurl }}/{{ site.baseurl }}/assets/visuals/PepsiAd.mp4)
 
-[Winston]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/visuals/winston_ad.jpg)
+[Winston]({{ site.baseurl }}/{{ site.baseurl }}/assets/visuals/winston_ad.jpg)
 
 ## Law School UDAP Suits
 
