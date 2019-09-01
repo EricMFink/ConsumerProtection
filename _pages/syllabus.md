@@ -63,17 +63,116 @@ The course website, [`emfink.net/CourseTemplate`](https://www.emfink.net/CourseT
 
 # Outline & Assignments
 
-## First Unit
+## Overview of Consumer Law 
 
-- Casebook, pages
+- Casebook, Chapters 1, 2, & 3
 
-## Second Unit
+## Communicating With Consumers 
 
-- Casebook, pages
+### Solicitations 
 
-### First Topic
+- Casebook, Chapter 4
 
-- Casebook, pages
-- Other reading 
+### Advertising 
 
-##### Quiz 1: Topics Covered 
+- Casebook, Chapter 5
+
+##### Problems 4.1 & 5.1, due January 15
+
+## Consumer Information 
+
+### Consumer Privacy & Identity Theft 
+
+- Casebook, Chapter 6
+
+- Kelly Gates, [The Securitization of Financial Identity]({{ site.baseurl }}/materials/articles/Gates_SecuritizationOfFinancialIdentity.pdf), 20 Journal of Communication Inquiry 1 (2010)
+
+### Credit Reporting & Discrimination
+
+- Casebook, Chapters 7 & 8
+
+- Josh Lauer, [The Good Consumer: Credit Reporting & the Invention of Financial Identity in the United States, 1840-1940]({{ site.baseurl }}/materials/articles/Lauer_TheGoodConsumer.pdf), 11 Enterprise & Society 686 (2010)
+
+##### Problems 6.1, 7.1, & 8.1, due January 22
+
+## Getting What You Pay For
+
+### Unfair or Deceptive Acts or Practices 
+
+- Casebook, Chapter 9
+
+### Warranties
+
+- Casebook, Chapter 10
+
+### Problems
+
+- 9.1 & 10.1
+
+## Consumer Finance 
+
+### Usury & Credit Cost Disclosures 
+
+- Casebook, Chapters 11 & 12
+
+### Credit Cards
+
+- Casebook, Chapter 15
+
+### Payday & Student Loans
+
+- Casebook, Chapters 17 & 18
+
+- CFPB, [Payday Loans & Deposit Advance Products]({{ site.baseurl }}/materials/articles/CFPB_PaydayLoans.pdf) (2013)
+
+- Louise Seamster & Raphaël Charron-Chénier, [Predatory Inclusion & Education Debt: Rethinking the Racial Wealth Gap]({{ site.baseurl }}/materials/articles/Seamster_PredatoryInclusion.pdf), 4 Social Currents 199 (2017)
+
+### Banking Transactions
+
+- Casebook, Chapter 19
+
+##### Problems 12.1, 15.1, & 19.1, due February 19
+
+## Perilous Purchases 
+
+### Automobile Transactions
+
+- Casebook, Chapter 16
+
+### Online Transactions
+
+- Casebook, Chapter 20
+
+## Enforcement & Remedies
+
+### Creditor Remedies
+
+- Casebook, Chapter 21
+
+### Debtor Rights
+
+- Casebook, Chapter 22 
+
+### Debt Collection Abuses 
+
+- Casebook, Chapter 23
+
+### Public Enforcement
+
+- Casebook, Chapter 24
+
+### Private Enforcement
+
+- Casebook, Chapter 25
+
+### Alternative Dispute Resolution 
+
+- Casebook, Chapter 26
+
+###### Problems 21.1, 23.1, & 26.1, due March 11
+
+## W(h)ither Consumer Law?
+
+### The Future of Consumer Law 
+
+- Casebook, Chapter 27
