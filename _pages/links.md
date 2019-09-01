@@ -48,30 +48,30 @@ title: Links
 
 ## Government Agencies 
 
-- [Federal Trade Commission](http://ftc.gov)
+[Federal Trade Commission](http://ftc.gov)
 
-- [Consumer Financial Protection Bureau](http://www.consumerfinance.gov)
+[Consumer Financial Protection Bureau](http://www.consumerfinance.gov)
 
-- [Federal Deposit Insurance Commission](http://www.fdic.gov)
+[Federal Deposit Insurance Commission](http://www.fdic.gov)
 
-- [Consumer Product Safety Commission](http://www.cpsc.gov)
+[Consumer Product Safety Commission](http://www.cpsc.gov)
 
-- [North Carolina Department of Justice](http://www.ncdoj.com/Consumer.aspx)
+[North Carolina Department of Justice](http://www.ncdoj.com/Consumer.aspx)
 
 ## Consumer Advocacy Organizations 
 
-- [National Consumer Law Center](http://www.nclc.org)
+[National Consumer Law Center](http://www.nclc.org)
 
-- [Center for Responsible Lending](http://www.responsiblelending.org/litigators)
+[Center for Responsible Lending](http://www.responsiblelending.org/litigators)
 
-- [Public Citizen](https://www.citizen.org)
+[Public Citizen](https://www.citizen.org)
 
-- [Center for Justice & Democracy](http://www.centerjd.org)
+[Center for Justice & Democracy](http://www.centerjd.org)
 
-- [NC Justice Center: Consumer & Housing Project](http://www.ncjustice.org/?q=consumer-and-housing)
+[NC Justice Center: Consumer & Housing Project](http://www.ncjustice.org/?q=consumer-and-housing)
 
 ## Consumer Law News 
 
-- [Public Citizen Consumer Law & Policy Blog](https://pubcit.typepad.com/clpblog/)
+[Public Citizen Consumer Law & Policy Blog](https://pubcit.typepad.com/clpblog/)
 
-- [Credit Slips](https://www.creditslips.org/)
+[Credit Slips](https://www.creditslips.org/)
