@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /{{ site.baseurl }}/assets/pdf/
+permalink: /materials/
 title: Materials
 ---
 
