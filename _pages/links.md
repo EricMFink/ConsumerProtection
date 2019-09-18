@@ -9,34 +9,35 @@ title: Links
 
 ### Federal Trade Commission Act 
 
-- [FTC Act](http://www.law.cornell.edu/uscode/text/15/chapter-2/subchapter-I )
+- [FTC Act](https://www.law.cornell.edu/uscode/text/15/chapter-2/subchapter-I )
 
 - [FTC Rules & Guides](https://www.ftc.gov/enforcement/rules/rules-and-guides)
+
 ### Truth in Lending Act
 
-- [TILA](http://www.law.cornell.edu/uscode/text/15/chapter-41/subchapter-I/part-A)
+- [TILA](https://www.law.cornell.edu/uscode/text/15/chapter-41/subchapter-I/part-A)
 
-- [Regulation Z](http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr;sid=09558a8309d73086b9217fe5af1ce0ef;rgn=div5;view=text;node=12%3A8.0.2.14.18;idno=12;cc=ecfr/)
+- [Regulation Z](https://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&tpl=/ecfrbrowse/Title12/12cfr1026_main_02.tpl)
 
 ### Fair Credit Reporting Act
 
-- [FRCA](http://www.law.cornell.edu/uscode/text/15/chapter-41/subchapter-III/)
+- [FRCA](https://www.law.cornell.edu/uscode/text/15/chapter-41/subchapter-III/)
 
-- [FCRA Regulations](http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr;sid=09558a8309d73086b9217fe5af1ce0ef;rgn=div5;view=text;node=12%3A8.0.2.14.16;idno=12;cc=ecfr/)
+- [Regulation V](https://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&tpl=/ecfrbrowse/Title12/12cfr1022_main_02.tpl)
 
 ### Fair Debt Collection Practices Act
 
 - [FDCPA](http://www.law.cornell.edu/uscode/text/15/chapter-41/subchapter-V/)
 
-- [FDCPA Regulations](http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr;sid=09558a8309d73086b9217fe5af1ce0ef;rgn=div5;view=text;node=12%3A8.0.2.14.5;idno=12;cc=ecfr/)
+- [Regulation F](https://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&tpl=/ecfrbrowse/Title12/12cfr1006_main_02.tpl)
 
 ### Other Federal Statutes
 
-- [Magnuson-Moss Warranty Act](http://www.law.cornell.edu/uscode/text/15/chapter-50/)
+- [Magnuson-Moss Warranty Act](https://www.law.cornell.edu/uscode/text/15/chapter-50/)
 
-- [Telemarketing & Consumer Fraud & Abuse Prevention Act](http://www.law.cornell.edu/uscode/text/15/chapter-87)
+- [Telemarketing & Consumer Fraud & Abuse Prevention Act](https://www.law.cornell.edu/uscode/text/15/chapter-87)
 
-- [Consumer Product Safety Act](http://www.law.cornell.edu/uscode/text/15/chapter-47)
+- [Consumer Product Safety Act](https://www.law.cornell.edu/uscode/text/15/chapter-47)
 
 ### North Carolina UDAP Statute
 
@@ -48,15 +49,15 @@ title: Links
 
 ## Government Agencies 
 
-- [Federal Trade Commission](http://ftc.gov)
+- [Federal Trade Commission](https://www.ftc.gov/)
 
-- [Consumer Financial Protection Bureau](http://www.consumerfinance.gov)
+- [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/)
 
-- [Federal Deposit Insurance Commission](http://www.fdic.gov)
+- [Federal Deposit Insurance Commission](https://www.fdic.gov)
 
-- [Consumer Product Safety Commission](http://www.cpsc.gov)
+- [Consumer Product Safety Commission](https://www.cpsc.gov)
 
-- [North Carolina Department of Justice](http://www.ncdoj.com/Consumer.aspx)
+- [North Carolina Department of Justice](https://ncdoj.gov/consumer-safety/)
 
 ## Consumer Advocacy Organizations 
 
