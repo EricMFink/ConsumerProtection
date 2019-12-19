@@ -9,9 +9,9 @@ phone: 336-279-9334
 address1: 201 North Greene Street
 address2: Greensboro, North Carolina 27401
 course: Consumer Protection
-term: Winter 2018
-days: Tuesdays & Thursdays, 8:30 - 10:30 am
-room: Room B106
+term: 'Winter 2019'
+days: 'Mondays & Wednesdays, 3:00 - 4:45 pm'
+room: Room 206
 
 output: 
   pdf_document:
@@ -22,13 +22,13 @@ output:
 
 # Description
 
-This course surveys federal and state laws regulating consumer purchases and finance. After completing the course, you should have a general understanding of consumer law (including sources of law, scope of coverage, enforcement mechanisms, and available remedies). The problem-solving approach is intended to develop practical skills for advising and representing clients in consumer transactions and disputes.
+This course surveys federal and state laws regulating consumer purchases and finance. After completing the course, you should be familiar with the statutory and regulatory framework of consumer protection law, including the types of transactions and activities covered, private and public enforcement mechanisms, and available remedies. The problem-solving approach is intended to develop practical skills for advising and representing clients in consumer transactions and disputes.
 
 # Materials
 
 Katherine Porter, Modern Consumer Law (Aspen 2016) ("Casebook")
 
-The course website, [`emfink.net/ConsumerProtection`](https://www.emfink.net/ConsumerProtection), has subject outlines, visual aids, practice problems, and links to statutes and other resources. 
+The course website, [`emfink.net/ConsumerProtection`](https://www.emfink.net/ConsumerProtection), has additional materials and links to statutes and other resources. 
 
 # Policies 
 
@@ -60,114 +60,132 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 ## Overview of Consumer Law 
 
+#### January 6 & 8
+
 - Casebook, Chapters 1, 2, & 3
 
 ## Communicating With Consumers 
 
 ### Solicitations 
 
+#### January 13
+
 - Casebook, Chapter 4
 
 ### Advertising 
 
+#### January 15
+
 - Casebook, Chapter 5
 
-##### Problems 4.1 & 5.1, due January 15
+##### Problems 4.1 & 5.1 (Due January 17)
 
 ## Consumer Information 
 
 ### Consumer Privacy & Identity Theft 
 
-- Casebook, Chapter 6
+#### January 22
 
-- Kelly Gates, [The Securitization of Financial Identity]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/articles/Gates_SecuritizationOfFinancialIdentity.pdf), 20 Journal of Communication Inquiry 1 (2010)
+- Casebook, Chapter 6
 
 ### Credit Reporting & Discrimination
 
+#### January 27 & 29
+
 - Casebook, Chapters 7 & 8
 
-- Josh Lauer, [The Good Consumer: Credit Reporting & the Invention of Financial Identity in the United States, 1840-1940]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/articles/Lauer_TheGoodConsumer.pdf), 11 Enterprise & Society 686 (2010)
-
-##### Problems 6.1, 7.1, & 8.1, due January 22
+##### Problems 6.1, 7.1, & 8.1 (Due January 31)
 
 ## Getting What You Pay For
 
 ### Unfair or Deceptive Acts or Practices 
 
+#### February 3
+
 - Casebook, Chapter 9
 
 ### Warranties
 
+#### February 5
+
 - Casebook, Chapter 10
 
-### Problems
+##### Problems 9.1 & 10.1 (Due February 7)
 
-- 9.1 & 10.1
-
-## Consumer Finance 
+## Consumer Finance
 
 ### Usury & Credit Cost Disclosures 
+
+#### February 10
 
 - Casebook, Chapters 11 & 12
 
 ### Credit Cards
 
+#### February 12
+
 - Casebook, Chapter 15
-
-### Payday & Student Loans
-
-- Casebook, Chapters 17 & 18
-
-- CFPB, [Payday Loans & Deposit Advance Products]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/articles/CFPB_PaydayLoans.pdf) (2013)
-
-- Louise Seamster & Raphaël Charron-Chénier, [Predatory Inclusion & Education Debt: Rethinking the Racial Wealth Gap]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/articles/Seamster_PredatoryInclusion.pdf), 4 Social Currents 199 (2017)
 
 ### Banking Transactions
 
+#### February 17
+
 - Casebook, Chapter 19
-
-##### Problems 12.1, 15.1, & 19.1, due February 19
-
-## Perilous Purchases 
-
-### Automobile Transactions
-
-- Casebook, Chapter 16
 
 ### Online Transactions
 
+#### February 19
+
 - Casebook, Chapter 20
+
+##### Problems 12.1, 15.1, & 19.1 (Due February 21)
+
+## Special Issues
+
+### Automobile Purchases
+
+#### February 24
+
+- Casebook, Chapter 16
+
+### Payday & Student Loans
+
+#### February 26
+
+- Casebook, Chapters 17 & 18
+
+##### Problems ??? (Due February 28)
 
 ## Enforcement & Remedies
 
 ### Creditor Remedies
 
+#### March 2
+
 - Casebook, Chapter 21
 
 ### Debtor Rights
+
+#### March 4
 
 - Casebook, Chapter 22 
 
 ### Debt Collection Abuses 
 
+#### March 9
+
 - Casebook, Chapter 23
 
-### Public Enforcement
+### Public & Private Enforcement
 
-- Casebook, Chapter 24
+#### March 11
 
-### Private Enforcement
+- Casebook, Chapters 24, 25, & 26
 
-- Casebook, Chapter 25
+## The Future of Consumer Law 
 
-### Alternative Dispute Resolution 
-
-- Casebook, Chapter 26
-
-###### Problems 21.1, 23.1, & 26.1, due March 11
-
-## W(h)ither Consumer Law?
-
-### The Future of Consumer Law 
+#### March 12
 
 - Casebook, Chapter 27
+
+##### Problems 21.1, 22.???, 23.1, due March 13

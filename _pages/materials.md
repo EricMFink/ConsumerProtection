@@ -11,36 +11,30 @@ title: Materials
 
 - [Statutory Supplement (2016)]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/casebook/PorterModernConsumerLaw2016StatutorySupplement20170119.pdf)
 
+
 ## Advertising
 
 - [L'Oreal]({{ site.baseurl }}/{{ site.baseurl }}/assets/visuals/loreal_ad.jpg)
-
 - [Pepsi]({{ site.baseurl }}/{{ site.baseurl }}/assets/visuals/PepsiAd.mp4)
-
 - [Winston]({{ site.baseurl }}/{{ site.baseurl }}/assets/visuals/winston_ad.jpg)
 
-## Law School UDAP Suits
+## Unfair & Deceptive Practices 
 
-- [Ash v. Charlotte School of Law (Complaint)]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/cases/Ash.pdf)
+## Credit Reporting 
 
-- [Austin v. Albany Law School]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/cases/Austin.pdf)
+- Kelly Gates, [The Securitization of Financial Identity]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/articles/Gates_SecuritizationOfFinancialIdentity.pdf), 20 Journal of Communication Inquiry 1 (2010)
+- Josh Lauer, [The Good Consumer: Credit Reporting & the Invention of Financial Identity in the United States, 1840-1940]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/articles/Lauer_TheGoodConsumer.pdf), 11 Enterprise & Society 686 (2010)
 
-- [Bevelacqua v. Brooklyn Law School]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/cases/Bevelacqua.pdf)
+## Credit Discrimination 
 
-- [Casey v. Florida Coastal School of Law]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/cases/Casey.pdf)
+## Payday Loans
 
-- [Evans v. IIT (Chicago-Kent College of Law)]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/cases/Evans.pdf)
+- CFPB, [Payday Loans & Deposit Advance Products]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/articles/CFPB_PaydayLoans.pdf) (2013)
 
-- [Gomez-Jimenez v. New York Law School]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/cases/Gomez-Jimenez.pdf)
+## Student Loans
+  
+- Louise Seamster & Raphaël Charron-Chénier, [Predatory Inclusion & Education Debt: Rethinking the Racial Wealth Gap]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/articles/Seamster_PredatoryInclusion.pdf), 4 Social Currents 199 (2017)
 
-- [Harnish v. Widener University School of Law]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/cases/Harnish.pdf)
+## Debt Collection 
 
-- [Johnson v. John Marshall Law School]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/cases/Johnson.pdf)
-
-- [Krebs v. Charlotte School of Law]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/cases/Krebs.pdf)
-
-- [Lorona v. Arizona Summit Law School]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/cases/Lorona.pdf)
-
-- [McDonald v. Thomas M. Cooley Law School]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/cases/McDonald.pdf)
-
-- [Phillips v. DePaul University College of Law]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/cases/Phillips.pdf)
+## Arbitration of Consumer Claims 
