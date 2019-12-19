@@ -5,7 +5,7 @@ title: Links
 
 ---
 
-## Statutes & Regulations 
+# Statutes & Regulations 
 
 ### Federal Trade Commission Act 
 
@@ -41,7 +41,7 @@ title: Links
 
 - [Cal. Bus. & Prof. Code §§ 17000 et seq.](https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=BPC&division=7.&title=&part=2.&chapter=4.&article=)
 
-## Government Agencies 
+# Government Agencies 
 
 - [Federal Trade Commission](https://www.ftc.gov/)
 - [Consumer Financial Protection Bureau](https://www.consumerfinance.gov/)
@@ -49,7 +49,7 @@ title: Links
 - [Consumer Product Safety Commission](https://www.cpsc.gov)
 - [North Carolina Department of Justice](https://ncdoj.gov/consumer-safety/)
 
-## Consumer Advocacy Organizations 
+# Consumer Advocacy Organizations 
 
 - [National Consumer Law Center](http://www.nclc.org)
 - [Center for Responsible Lending](http://www.responsiblelending.org/litigators)
@@ -57,7 +57,7 @@ title: Links
 - [Center for Justice & Democracy](http://www.centerjd.org)
 - [NC Justice Center: Consumer & Housing Project](http://www.ncjustice.org/?q=consumer-and-housing)
 
-## Consumer Law News 
+# Consumer Law News 
 
 - [Public Citizen Consumer Law & Policy Blog](https://pubcit.typepad.com/clpblog/)
 - [Credit Slips](https://www.creditslips.org/)
