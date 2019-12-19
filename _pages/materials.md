@@ -8,7 +8,6 @@ title: Materials
 ## Casebook 
 
 - [Errata]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/casebook/ErrataPage2016.pdf)
-
 - [Statutory Supplement (2016)]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/casebook/PorterModernConsumerLaw2016StatutorySupplement20170119.pdf)
 
 
