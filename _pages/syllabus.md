@@ -88,11 +88,17 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 - Casebook, Chapter 6
 
-### Credit Reporting & Discrimination
+### Credit Reporting
 
-#### January 27 & 29
+#### January 27
 
-- Casebook, Chapters 7 & 8
+- Casebook, Chapter 7
+
+### Credit Discrimination
+
+#### January 29
+
+- Casebook, Chapter 8
 
 ##### Problems 6.1, 7.1, & 8.1 (Due January 31)
 
