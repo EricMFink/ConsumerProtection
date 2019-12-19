@@ -188,10 +188,10 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 - Casebook, Chapters 24, 25, & 26
 
+##### Problems 21.1, 22.???, 23.1 due March 13
+
 ## The Future of Consumer Law 
 
 #### March 12
 
 - Casebook, Chapter 27
-
-##### Problems 21.1, 22.???, 23.1, due March 13
