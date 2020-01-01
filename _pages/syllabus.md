@@ -32,7 +32,7 @@ Katherine Porter, Modern Consumer Law (Aspen 2016) ("Casebook")
 
 The Statutory Supplement to the Casebook ([download PDF]({{ site.baseurl }}/{{ site.baseurl}}/assets/pdf/casebook/Porter-ConsumerLaw-StatutorySupplement2017.pdf)) contains the relevant statutory and regulatory provisions for each chapter. 
 
-The course website, [`emfink.net/ConsumerProtection`](https://www.emfink.net/ConsumerProtection) has [supplemental readings and materials](https://www.emfink.net/ConsumerProtection/materials/), as well as [links to statutes, regulations, and other resources](https://www.emfink.net/ConsumerProtection/links/). 
+The course website, [`emfink.net/ConsumerProtection`](https://www.emfink.net/ConsumerProtection), has [supplemental readings and materials](https://www.emfink.net/ConsumerProtection/materials/), as well as [links to statutes, regulations, and other resources](https://www.emfink.net/ConsumerProtection/links/). 
 
 # Policies 
 
@@ -40,7 +40,7 @@ The course website, [`emfink.net/ConsumerProtection`](https://www.emfink.net/Con
 
 Your final grade for the course will be based on written problem assignments (60%) and in-class performance (40%). There will be no final exam for this course. 
 
-Written problem assignments are due on the dates indicated in the "Schedule & Assignments" section below. Please submit your completed problems to me by email (<efink@elon.edu>) as PDF documents, with file names in this format: `LAST_NAME-ProblemSetX.pdf`
+Written problem assignments are due on the dates indicated in the "Schedule & Assignments" section below. Please submit your completed problems to me by email (<efink@elon.edu>) as PDF documents, with file names in this format: `LastName-ProblemSetX.pdf`.
 
 Class sessions will be devoted primarily to discussion of  problems from the Casebook. The in-class performance component depends on your preparation before class (completing all assigned reading and reviewing problems for class discussion), regular and prompt class attendance, and constructive engagement during class. Elon Law School's standards and ABA guidance for awarding course credit assume at least two hours of out-of-class student work for each hour of classroom instruction.
 
