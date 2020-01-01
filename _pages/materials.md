@@ -5,12 +5,6 @@ title: Materials
 
 ---
 
-## Casebook 
-
-- [Errata]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/casebook/ErrataPage2016.pdf)
-- [Statutory Supplement (2016)]({{ site.baseurl }}/{{ site.baseurl }}/assets/pdf/casebook/PorterModernConsumerLaw2016StatutorySupplement20170119.pdf)
-
-
 ## Advertising
 
 - [L'Oreal]({{ site.baseurl }}/{{ site.baseurl }}/assets/visuals/loreal_ad.jpg)

@@ -13,6 +13,8 @@ term: 'Winter 2019'
 days: 'Mondays & Wednesdays, 3:00 - 4:45 pm'
 room: Room 206
 
+nonumbers: true
+
 output: 
   pdf_document:
     latex_engine: xelatex
@@ -26,9 +28,11 @@ This course surveys federal and state laws regulating consumer purchases and fin
 
 # Materials
 
-Katherine Porter, Modern Consumer Law (Aspen 2016) ("Casebook")
+Katherine Porter, Modern Consumer Law (Aspen 2016) ("Casebook") 
 
-The course website, [`emfink.net/ConsumerProtection`](https://www.emfink.net/ConsumerProtection), has additional materials and links to statutes and other resources. 
+The Statutory Supplement to the Casebook ([download PDF]({{ site.baseurl }}/{{ site.baseurl}}/assets/pdf/casebook/Porter-ConsumerLaw-StatutorySupplement2017.pdf)) contains the relevant statutory and regulatory provisions for each chapter. 
+
+The course website, [`emfink.net/ConsumerProtection`](https://www.emfink.net/ConsumerProtection) has [supplemental readings and materials](https://www.emfink.net/ConsumerProtection/materials/), as well as [links to statutes, regulations, and other resources](https://www.emfink.net/ConsumerProtection/links/). 
 
 # Policies 
 
@@ -36,7 +40,9 @@ The course website, [`emfink.net/ConsumerProtection`](https://www.emfink.net/Con
 
 Your final grade for the course will be based on written problem assignments (60%) and in-class performance (40%). There will be no final exam for this course. 
 
-The in-class performance component depends on your preparation before class (completing all assigned reading and reviewing problems), regular and prompt class attendance, and constructive engagement during class. Elon Law School's standards and ABA guidance for awarding course credit assume at least two hours of out-of-class student work for each hour of classroom instruction.
+Written problem assignments are due on the dates indicated in the "Schedule & Assignments" section below. Please submit your completed problems to me by email (<efink@elon.edu>) as PDF documents, with file names in this format: `LAST_NAME-ProblemSetX.pdf`
+
+Class sessions will be devoted primarily to discussion of  problems from the Casebook. The in-class performance component depends on your preparation before class (completing all assigned reading and reviewing problems for class discussion), regular and prompt class attendance, and constructive engagement during class. Elon Law School's standards and ABA guidance for awarding course credit assume at least two hours of out-of-class student work for each hour of classroom instruction.
 
 #### Attendance 
 
@@ -56,141 +62,135 @@ For disability accommodation requests, contact the Elon Law [Registrar's Office]
 
 The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-code.html) applies to all activities related to your law school study, including conduct during class and examinations. 
 
-# Outline & Assignments
+# Schedule & Assignments
 
-## Overview of Consumer Law 
+### Overview of Consumer Law 
 
-#### January 6 & 8
+#### January 6
 
 - Casebook, Chapters 1, 2, & 3
 
-## Communicating With Consumers 
-
 ### Solicitations 
 
-#### January 13
+#### January 8
 
 - Casebook, Chapter 4
 
 ### Advertising 
 
-#### January 15
+#### January 13
 
 - Casebook, Chapter 5
 
-##### Problems 4.1 & 5.1 (Due January 17)
-
-## Consumer Information 
+##### Problem Set 1: 4.1 & 5.1 (Due January 15)
 
 ### Consumer Privacy & Identity Theft 
 
-#### January 22
+#### January 15
 
 - Casebook, Chapter 6
 
 ### Credit Reporting
 
-#### January 27
+#### January 22
 
 - Casebook, Chapter 7
 
 ### Credit Discrimination
 
-#### January 29
+#### January 27
 
 - Casebook, Chapter 8
 
-##### Problems 6.1, 7.1, & 8.1 (Due January 31)
-
-## Getting What You Pay For
+##### Problem Set 2: 7.1 & 8.1 (Due January 29)
 
 ### Unfair or Deceptive Acts or Practices 
 
-#### February 3
+#### January 29
 
 - Casebook, Chapter 9
 
 ### Warranties
 
-#### February 5
+#### February 3
 
 - Casebook, Chapter 10
 
-##### Problems 9.1 & 10.1 (Due February 7)
+##### Problem Set 3: 9.1 & 10.1 (Due February 5)
 
-## Consumer Finance
+### The Cost of Credit 
 
-### Usury & Credit Cost Disclosures 
-
-#### February 10
+#### February 5
 
 - Casebook, Chapters 11 & 12
 
 ### Credit Cards
 
-#### February 12
+#### February 10
 
 - Casebook, Chapter 15
 
 ### Banking Transactions
 
-#### February 17
+#### February 12
 
 - Casebook, Chapter 19
 
 ### Online Transactions
 
-#### February 19
+#### February 17
 
 - Casebook, Chapter 20
 
-##### Problems 12.1, 15.1, & 19.1 (Due February 21)
-
-## Special Issues
+##### Problem Set 4: 12.1 & 15.1 (Due February 19)
 
 ### Automobile Purchases
 
-#### February 24
+#### February 19
 
 - Casebook, Chapter 16
 
 ### Payday & Student Loans
 
-#### February 26
+#### February 24
 
 - Casebook, Chapters 17 & 18
 
-##### Problems ??? (Due February 28)
-
-## Enforcement & Remedies
+##### Problem Set 5: 16.1 & 17.1 (Due February 26)
 
 ### Creditor Remedies
 
-#### March 2
+#### February 26
 
 - Casebook, Chapter 21
 
 ### Debtor Rights
 
-#### March 4
+#### March 2
 
 - Casebook, Chapter 22 
 
 ### Debt Collection Abuses 
 
-#### March 9
+#### March 4
 
 - Casebook, Chapter 23
 
-### Public & Private Enforcement
+### Public Enforcement
+
+#### March 9 
+
+- Casebook, Chapter 24
+
+### Private Enforcement & Arbitration
 
 #### March 11
 
-- Casebook, Chapters 24, 25, & 26
+- Casebook, Chapters 25 & 26
 
-##### Problems 21.1, 22.???, 23.1 due March 13
+##### Problem Set 6: 21.1 & 23.1 (Due March 13)
 
-## The Future of Consumer Law 
+### The Future of Consumer Law 
 
 #### March 12
 
