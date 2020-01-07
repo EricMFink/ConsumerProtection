@@ -30,7 +30,7 @@ This course surveys federal and state laws regulating consumer purchases and fin
 
 Katherine Porter, Modern Consumer Law (Aspen 2016) ("Casebook") 
 
-The Statutory Supplement to the Casebook ([download PDF]({{ site.baseurl }}/{{ site.baseurl}}/assets/pdf/casebook/Porter-ConsumerLaw-StatutorySupplement2017.pdf)) contains the relevant statutory and regulatory provisions for each chapter. 
+The Statutory Supplement to the Casebook ([download PDF]({{ site.baseurl }}/assets/pdf/casebook/Porter-ConsumerLaw-StatutorySupplement2017.pdf)) contains the relevant statutory and regulatory provisions for each chapter. 
 
 The course website, [`emfink.net/ConsumerProtection`](https://www.emfink.net/ConsumerProtection), has [supplemental readings and materials](https://www.emfink.net/ConsumerProtection/materials/), as well as [links to statutes, regulations, and other resources](https://www.emfink.net/ConsumerProtection/links/). 
 
@@ -64,19 +64,19 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 # Schedule & Assignments
 
-### Overview of Consumer Law 
+## Overview of Consumer Law 
 
 #### January 6
 
 - Casebook, Chapters 1, 2, & 3
 
-### Solicitations 
+## Solicitations 
 
 #### January 8
 
 - Casebook, Chapter 4
 
-### Advertising 
+## Advertising 
 
 #### January 13
 
@@ -84,19 +84,19 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 ##### Problem Set 1: 4.1 & 5.1 (Due January 15)
 
-### Consumer Privacy & Identity Theft 
+## Consumer Privacy & Identity Theft 
 
 #### January 15
 
 - Casebook, Chapter 6
 
-### Credit Reporting
+## Credit Reporting
 
 #### January 22
 
 - Casebook, Chapter 7
 
-### Credit Discrimination
+## Credit Discrimination
 
 #### January 27
 
@@ -104,13 +104,13 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 ##### Problem Set 2: 7.1 & 8.1 (Due January 29)
 
-### Unfair or Deceptive Acts or Practices 
+## Unfair or Deceptive Acts or Practices 
 
 #### January 29
 
 - Casebook, Chapter 9
 
-### Warranties
+## Warranties
 
 #### February 3
 
@@ -118,25 +118,25 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 ##### Problem Set 3: 9.1 & 10.1 (Due February 5)
 
-### The Cost of Credit 
+## The Cost of Credit 
 
 #### February 5
 
 - Casebook, Chapters 11 & 12
 
-### Credit Cards
+## Credit Cards
 
 #### February 10
 
 - Casebook, Chapter 15
 
-### Banking Transactions
+## Banking Transactions
 
 #### February 12
 
 - Casebook, Chapter 19
 
-### Online Transactions
+## Online Transactions
 
 #### February 17
 
@@ -144,13 +144,13 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 ##### Problem Set 4: 12.1 & 15.1 (Due February 19)
 
-### Automobile Purchases
+## Automobile Purchases
 
 #### February 19
 
 - Casebook, Chapter 16
 
-### Payday & Student Loans
+## Payday & Student Loans
 
 #### February 24
 
@@ -158,31 +158,31 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 ##### Problem Set 5: 16.1 & 17.1 (Due February 26)
 
-### Creditor Remedies
+## Creditor Remedies
 
 #### February 26
 
 - Casebook, Chapter 21
 
-### Debtor Rights
+## Debtor Rights
 
 #### March 2
 
 - Casebook, Chapter 22 
 
-### Debt Collection Abuses 
+## Debt Collection Abuses 
 
 #### March 4
 
 - Casebook, Chapter 23
 
-### Public Enforcement
+## Public Enforcement
 
 #### March 9 
 
 - Casebook, Chapter 24
 
-### Private Enforcement & Arbitration
+## Private Enforcement & Arbitration
 
 #### March 11
 
@@ -190,7 +190,7 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 ##### Problem Set 6: 21.1 & 23.1 (Due March 13)
 
-### The Future of Consumer Law 
+## The Future of Consumer Law 
 
 #### March 12
 
