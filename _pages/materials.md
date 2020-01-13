@@ -15,8 +15,8 @@ title: Materials
 
 - Visuals 
   - [L'Oreal]({{ site.baseurl }}/assets/advertising/loreal_ad.jpg)
-  - [Pepsi]({{ site.baseurl }}/assets//advertisingPepsiAd.mp4)
-  - [Winston]({{ site.baseurl }}/assets//advertisingwinston_ad.jpg)
+  - [Pepsi]({{ site.baseurl }}/assets/advertising/PepsiAd.mp4)
+  - [Winston]({{ site.baseurl }}/assets/advertising/winston_ad.jpg)
 
 ## Unfair & Deceptive Practices 
 
@@ -39,5 +39,5 @@ title: Materials
 
 ## Student Loans
   
-- Louise Seamster & Raphaël Charron-Chénier, [Predatory Inclusion & Education Debt: Rethinking the Racial Wealth Gap]({{ site.baseurl }}/assets/{{ site.baseurl }}/assets/credit_debt/Seamster_PredatoryInclusion.pdf), 4 Social Currents 199 (2017)
+- Louise Seamster & Raphaël Charron-Chénier, [Predatory Inclusion & Education Debt: Rethinking the Racial Wealth Gap]({{ site.baseurl }}/assets/credit_debt/Seamster_PredatoryInclusion.pdf), 4 Social Currents 199 (2017)
 - Eric Fink & Roland Zullo, [Federal Student Loan Servicing: Contract Problems and Public Solutions]({{ site.baseurl }}/assets/credit_debt/Fink-Zullo_StudentLoanServicing.pdf), Jobs With Justice Education Fund (2014)
