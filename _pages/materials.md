@@ -20,6 +20,8 @@ title: Materials
 
 ## Unfair & Deceptive Practices 
 
+- Stephen Raher, [The Company Store and the Literally Captive Market: Consumer Law in Prisons and Jails]({{ site.baseurl }}/assets/udap/Raher_TheCompanyStore.pdf), 17 Hasting Race and Povery Law Journal 3 (2020)
+
 - Additional Cases 
   - [Dugan v. TGI Friday's, Inc.]({{ site.baseurl }}/assets/udap/Dugan_v_TGIF.pdf)
   - [Stahl v. Balsara]({{ site.baseurl }}/assets/udap/Stahl_v_Balsara.pdf), 60 Haw. 144 (1978)
@@ -41,3 +43,5 @@ title: Materials
   
 - Louise Seamster & Raphaël Charron-Chénier, [Predatory Inclusion & Education Debt: Rethinking the Racial Wealth Gap]({{ site.baseurl }}/assets/credit_debt/Seamster_PredatoryInclusion.pdf), 4 Social Currents 199 (2017)
 - Eric Fink & Roland Zullo, [Federal Student Loan Servicing: Contract Problems and Public Solutions]({{ site.baseurl }}/assets/credit_debt/Fink-Zullo_StudentLoanServicing.pdf), Jobs With Justice Education Fund (2014)
+
+
