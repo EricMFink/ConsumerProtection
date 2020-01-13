@@ -11,7 +11,7 @@ address2: Greensboro, North Carolina 27401
 course: Consumer Protection
 term: 'Winter 2019'
 days: 'Mondays & Wednesdays, 3:00 - 4:45 pm'
-room: Room 206
+room: Room 211
 
 nonumbers: true
 
