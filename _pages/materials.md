@@ -22,9 +22,10 @@ title: Materials
 
 ## Unfair & Deceptive Practices 
 
-- Additional Cases 
-  - [Dugan v. TGI Friday's, Inc.]({{ site.baseurl }}/assets/udap/Dugan_v_TGIF.pdf)
-  - [Stahl v. Balsara]({{ site.baseurl }}/assets/udap/Stahl_v_Balsara.pdf), 60 Haw. 144 (1978)
+- Complaint, [Center for Inquiry v. WalMart]({{ site.baseurl }}/assets/udap/CFI-v-Walmart.pdf), No. 2019-CA-003340-B (D.D.C. May 20, 2019)
+  - Nicole Fisher, [America's Largest Retailer Sued for Selling Fake Medicine](http://bit.ly/35S7P0F), Forbes (May 31, 2019)
+- [Dugan v. TGI Friday's, Inc.]({{ site.baseurl }}/assets/udap/Dugan_v_TGIF.pdf)
+- [Stahl v. Balsara]({{ site.baseurl }}/assets/udap/Stahl_v_Balsara.pdf), 60 Haw. 144 (1978)
 
 ## Consumer Privacy 
 
