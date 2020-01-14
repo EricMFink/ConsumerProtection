@@ -7,16 +7,18 @@ title: Materials
 
 ## Advertising
 
-- Additional Cases 
+### Additional Cases 
   - [Complaint, FTC v. Match Group, Inc.]({{ site.baseurl }}/assets/advertising/FTC_v_MatchGroup.pdf), No. 3:19-cv-02281 (N.D. Tex. Sept. 25, 2019)
   - [Painter v. Blue Diamond Growers]({{ site.baseurl }}/assets/advertising/Painter_v_Blue Diamond.pdf), CV 17-02235-SVW-AJW (C.D. Cal. May 24, 2017), aff'd  17-55901 (9th Cir. Dec. 20, 2018). 
   - [Ang. V. Whitewave Foods Co.]({{ site.baseurl }}/assets/advertising/Ang_v_Whitewave.pdf), No. 13-cv-1953 (N.D. Cal. Dec. 10, 2013)
   - [Leonard v. Pepsico]({{ site.baseurl }}/assets/advertising/Leonard_v_Pepsico.pdf), 88 F. Supp. 2d 116 (S.D.N.Y. 1999)
 
-- Visuals 
+### Visuals 
   - [L'Oreal]({{ site.baseurl }}/assets/advertising/loreal_ad.jpg)
   - [Pepsi]({{ site.baseurl }}/assets/advertising/PepsiAd.mp4)
   - [Winston]({{ site.baseurl }}/assets/advertising/winston_ad.jpg)
+  - [Silver Solution USA](http://bit.ly/37VESCu)
+    - Stephanie Haney, [Televangelist Jim Bakker is now hawking a 'silver gel' he claims can cure 'all venereal diseases' for $25 per bottle](https://dailym.ai/2teFpkb), The Daily Mail (June 24, 2018)
 
 ## Unfair & Deceptive Practices 
 
