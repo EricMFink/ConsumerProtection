@@ -53,8 +53,7 @@ title: Materials
 
 ### Student Loans
 
-- U.S. Department of Education, [Student Assistance General Provisions, Final Regulations](http://bit.ly/2tdou1i), 84 Fed. Reg. 58834 (Nov. 1, 2019)
-  - [Press Release](http://bit.ly/3a513ba) (Oct. 31, 2019)
+- U.S. Department of Education, [Student Assistance General Provisions, Final Regulations](http://bit.ly/2tdou1i), 84 Fed. Reg. 58834 (Nov. 1, 2019); [Press Release](http://bit.ly/3a513ba) (Oct. 31, 2019)
 - Louise Seamster & Raphaël Charron-Chénier, [Predatory Inclusion & Education Debt: Rethinking the Racial Wealth Gap]({{ site.baseurl }}/assets/class_materials/credit_debt/Seamster_PredatoryInclusion.pdf), 4 Social Currents 199 (2017)
 - Eric Fink & Roland Zullo, [Federal Student Loan Servicing: Contract Problems and Public Solutions]({{ site.baseurl }}/assets/class_materials/credit_debt/Fink-Zullo_StudentLoanServicing.pdf), Jobs With Justice Education Fund (2014)
 
