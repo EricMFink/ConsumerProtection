@@ -68,7 +68,7 @@ title: Materials
 - Hanna Appel, et al [The Power of Debt](http://bit.ly/2RcxzQ6), The Debt Collective (2019)
 - Rebecca Tippet, et al [Beyond Broke: Why Closing the Racial Wealth Gap is a Priority for National Economic Security]({{ site.baseurl }}/assets/class_materials/credit_debt/BeyondBroke.pdf), Duke Center for Global Policy Solutions (May 2014)
 - Greta R. Kruppner, [Democracy of Credit: Ownership & Politics of Credit Access in 20th Century America]({{ site.baseurl }}/assets/class_materials/credit_debt/Kruppner-DemocracyOfCredit.pdf),  123 American Journal of Sociology 1 (2017)
-- Kenneth Dyson, [The Morality of Debt: A History of Financial Saints & Sinners]({{ site.baseurl }}/assets/class_materials/credit_debt/Dyson-MoralityOfDebt), Foreign Affairs (May 3, 2015)
+- Kenneth Dyson, [The Morality of Debt: A History of Financial Saints & Sinners]({{ site.baseurl }}/assets/class_materials/credit_debt/Dyson-MoralityOfDebt.pdf), Foreign Affairs (May 3, 2015)
 
 ### Debtor Movements
 
