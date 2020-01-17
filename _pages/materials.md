@@ -37,7 +37,7 @@ title: Materials
 
 - Zuboff, Shoshana, [Big Other: Surveillance Capitalism and the Prospects of an Information Civilization]({{ site.baseurl }}/assets/class_materials/privacy/Zuboff-BigOther.pdf), 30 Journal of Information Technology 75 (2015)
 - John Naughton, ['The goal is to automate us': welcome to the age of surveillance capitalism](http://bit.ly/38c66os), The Guardian (Jan. 20, 2019)
-- David Glance, [Is it time to regulate targeted ads and the web giants that profit from them?}(http://bit.ly/2toBIZa), The Conversation (Apr. 22, 2018)
+- David Glance, [Is it time to regulate targeted ads and the web giants that profit from them?](http://bit.ly/2toBIZa), The Conversation (Apr. 22, 2018)
 
 ## Consumer Finance 
 
