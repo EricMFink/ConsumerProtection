@@ -15,24 +15,6 @@ output:
 ---
 
 
-# Problem 6.1 
-
-## Coverage as a Video Tape Service Provider
-- "prerecorded video cassette tapes or similar audio visual materials". 18 USC §2710(a)(4)
-    - Streaming video probably covered; E-books probably not 
-
-## Personally Identifiable Information 
-- "includes information which identifies a person as having requested or obtained specific video materials or services". 18 USC §2710(a)(3)
-
-## Disclosure
-- Informed Written Consent. 18 USC §2710(b)(2)(B)
-    - Timing
-        - at time disclosure is sought, or
-        - in advance (no more than 2 years)
-    - Opportunity to withdraw 
-- Ordinary Course of Business. 18 USC §2710(b)(2)(E)
-    - "only debt collection activities, order fulfillment, request processing, and the transfer of ownership". 18 USC §2710(a)(2)
-
 # Problem 7.1
 
 ## Time Limits 
@@ -76,3 +58,5 @@ output:
     - Blanket imposition of fee is not "judgmental system". 12 CFR §1002.6(b)(2)(iii)
     - Additional fee does not favor elderly applicants. 12 CFR §1002.6(b)(2)(iv)
 - What about applicants aged 55-61?
+
+# Problem 8.1
