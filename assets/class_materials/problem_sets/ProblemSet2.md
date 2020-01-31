@@ -58,5 +58,3 @@ output:
     - Blanket imposition of fee is not "judgmental system". 12 CFR §1002.6(b)(2)(iii)
     - Additional fee does not favor elderly applicants. 12 CFR §1002.6(b)(2)(iv)
 - What about applicants aged 55-61?
-
-# Problem 8.1
