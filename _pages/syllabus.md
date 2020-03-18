@@ -13,7 +13,7 @@ term: 'Winter 2019'
 days: 'Mondays & Wednesdays, 3:00 - 4:45 pm'
 room: Room 211
 
-nonumbers: true
+
 
 output: 
   pdf_document:
