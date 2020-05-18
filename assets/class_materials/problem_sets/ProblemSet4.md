@@ -10,7 +10,7 @@ affiliation: Elon Law School
 output: 
   pdf_document:
     latex_engine: xelatex
-    template: grading.latex
+    template: grading.tex
     
 ---
 
