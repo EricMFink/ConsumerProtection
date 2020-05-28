@@ -1,25 +1,26 @@
 ---
 layout: page
 permalink: /materials/
-title: Materials
+title: Additional Reading
 
 ---
 
-## Advertising
+## Additional Cases 
 
-- [L'Oreal]({{ site.baseurl }}/assets/class_materials/advertising/loreal_ad.jpg)
-- [Winston]({{ site.baseurl }}/assets/class_materials/advertising/winston_ad.jpg)
-- [Silver Solution USA](http://bit.ly/37VESCu)
-  - Stephanie Haney, [Televangelist Jim Bakker is now hawking a 'silver gel' he claims can cure 'all venereal diseases' for $25 per bottle](https://dailym.ai/2teFpkb), The Daily Mail (June 24, 2018)
-
-### Additional Cases 
+### Advertising 
 
 - [Painter v. Blue Diamond Growers]({{ site.baseurl }}/assets/class_materials/advertising/Painter_v_Blue Diamond.pdf), CV 17-02235-SVW-AJW (C.D. Cal. May 24, 2017), aff'd  17-55901 (9th Cir. Dec. 20, 2018). 
 - [Ang. V. Whitewave Foods Co.]({{ site.baseurl }}/assets/class_materials/advertising/Ang_v_Whitewave.pdf), No. 13-cv-1953 (N.D. Cal. Dec. 10, 2013)
 - [Leonard v. Pepsico]({{ site.baseurl }}/assets/class_materials/advertising/Leonard_v_Pepsico.pdf), 88 F. Supp. 2d 116 (S.D.N.Y. 1999)
-  - [Pepsi Ad]({{ site.baseurl }}/assets/class_materials/advertising/PepsiAd.mp4)
 
-## Unfair & Deceptive Practices 
+### Unfair & Deceptive Practices 
+
+- [Dugan v. TGI Friday's, Inc.]({{ site.baseurl }}/assets/class_materials/udap/Dugan_v_TGIF.pdf), 171 A. 3d 620 (N.J. 2017)
+- [Stahl v. Balsara]({{ site.baseurl }}/assets/class_materials/udap/Stahl_v_Balsara.pdf), 60 Haw. 144 (1978)
+
+## Additional Reading 
+
+### Unfair & Deceptive Practices 
 
 - Laura M. Holson, [Match.com Used Fake Ads to Swindle Users, F.T.C. Says](https://www.nytimes.com/2019/09/25/us/match-com-lawsuit-ftc.html), N.Y. Times (Sept. 25, 2019)
   - [FTC Complaint]({{ site.baseurl }}/assets/class_materials/advertising/FTC_v_MatchGroup.pdf), No. 3:19-cv-02281 (N.D. Tex. Sept. 25, 2019)
@@ -28,18 +29,11 @@ title: Materials
 - Stephen Raher, [The Company Store and the Literally Captive Market: Consumer Law in Prisons and Jails]({{ site.baseurl }}/assets/class_materials/udap/Raher_TheCompanyStore.pdf), 17 Hasting Race and Povery Law Journal 3 (2020)
 - Jamie Luguri & Lior Strahilevitz, [Shining a Light on Dark Patterns]({{ site.baseurl }}/assets/class_materials/udap/Luguri & Strahilevitz - Dark Patterns & Consumer Law.pdf),  U of Chicago, Public Law Working Paper No. 719; University of Chicago Coase-Sandor Institute for Law & Economics Research Paper No. 879  (August 1, 2019)
 
-### Additional Cases 
+### Consumer Privacy 
 
-- [Dugan v. TGI Friday's, Inc.]({{ site.baseurl }}/assets/class_materials/udap/Dugan_v_TGIF.pdf), 171 A. 3d 620 (N.J. 2017)
-- [Stahl v. Balsara]({{ site.baseurl }}/assets/class_materials/udap/Stahl_v_Balsara.pdf), 60 Haw. 144 (1978)
-
-## Consumer Privacy 
-
-- Zuboff, Shoshana, [Big Other: Surveillance Capitalism and the Prospects of an Information Civilization]({{ site.baseurl }}/assets/class_materials/privacy/Zuboff-BigOther.pdf), 30 Journal of Information Technology 75 (2015)
+- Shoshana Zuboff, [Big Other: Surveillance Capitalism and the Prospects of an Information Civilization]({{ site.baseurl }}/assets/class_materials/privacy/Zuboff-BigOther.pdf), 30 Journal of Information Technology 75 (2015)
 - John Naughton, ['The goal is to automate us': welcome to the age of surveillance capitalism](http://bit.ly/38c66os), The Guardian (Jan. 20, 2019)
 - David Glance, [Is it time to regulate targeted ads and the web giants that profit from them?](http://bit.ly/2toBIZa), The Conversation (Apr. 22, 2018)
-
-## Consumer Finance 
 
 ### Credit Reporting 
 

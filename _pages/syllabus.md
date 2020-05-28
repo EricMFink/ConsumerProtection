@@ -68,19 +68,27 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 #### January 6
 
-- Casebook, Chapters 1, 2, & 3
+Casebook, Chapters 1, 2, & 3
 
 ## Solicitations 
 
 #### January 8
 
-- Casebook, Chapter 4
+Casebook, Chapter 4
 
 ## Advertising 
 
 #### January 13
 
-- Casebook, Chapter 5
+Casebook, Chapter 5
+
+Advertisements (preview before class):
+
+- [L'Oreal]({{ site.baseurl }}/assets/class_materials/advertising/loreal_ad.jpg)
+- [Winston]({{ site.baseurl }}/assets/class_materials/advertising/winston_ad.jpg)
+- [Pepsi]({{ site.baseurl }}/assets/class_materials/advertising/PepsiAd.mp4)
+- [Silver Solution USA](http://bit.ly/37VESCu)
+  - Stephanie Haney, [Televangelist Jim Bakker is now hawking a 'silver gel' he claims can cure 'all venereal diseases' for $25 per bottle](https://dailym.ai/2teFpkb), The Daily Mail (June 24, 2018)
 
 ##### Problem Set 1: 4.1 & 5.1 (Due January 15)
 
@@ -88,19 +96,19 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 #### January 15
 
-- Casebook, Chapter 6
+Casebook, Chapter 6
 
 ## Credit Reporting
 
 #### January 22
 
-- Casebook, Chapter 7
+Casebook, Chapter 7
 
 ## Credit Discrimination
 
 #### January 27
 
-- Casebook, Chapter 8
+Casebook, Chapter 8
 
 ##### Problem Set 2: 7.1 & 8.1 (Due January 29)
 
@@ -108,13 +116,13 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 #### January 29
 
-- Casebook, Chapter 9
+Casebook, Chapter 9
 
 ## Warranties
 
 #### February 3
 
-- Casebook, Chapter 10
+Casebook, Chapter 10
 
 ##### Problem Set 3: 9.1 & 10.1 (Due February 5)
 
@@ -122,25 +130,25 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 #### February 5
 
-- Casebook, Chapters 11 & 12
+Casebook, Chapters 11 & 12
 
 ## Credit Cards
 
 #### February 10
 
-- Casebook, Chapter 15
+Casebook, Chapter 15
 
 ## Banking Transactions
 
 #### February 12
 
-- Casebook, Chapter 19
+Casebook, Chapter 19
 
 ## Online Transactions
 
 #### February 17
 
-- Casebook, Chapter 20
+Casebook, Chapter 20
 
 ##### Problem Set 4: 12.1 & 15.1 (Due February 19)
 
@@ -148,13 +156,13 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 #### February 19
 
-- Casebook, Chapter 16
+Casebook, Chapter 16
 
 ## Payday & Student Loans
 
 #### February 24
 
-- Casebook, Chapters 17 & 18
+Casebook, Chapters 17 & 18
 
 ##### Problem Set 5: 16.1 & 17.1 (Due February 26)
 
@@ -162,31 +170,31 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 #### February 26
 
-- Casebook, Chapter 21
+Casebook, Chapter 21
 
 ## Debtor Rights
 
 #### March 2
 
-- Casebook, Chapter 22 
+Casebook, Chapter 22 
 
 ## Debt Collection Abuses 
 
 #### March 4
 
-- Casebook, Chapter 23
+Casebook, Chapter 23
 
 ## Public Enforcement
 
 #### March 9 
 
-- Casebook, Chapter 24
+Casebook, Chapter 24
 
 ## Private Enforcement & Arbitration
 
 #### March 11
 
-- Casebook, Chapters 25 & 26
+Casebook, Chapters 25 & 26
 
 ##### Problem Set 6: 21.1 & 23.1 (Due March 13)
 
@@ -194,4 +202,4 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 #### March 12
 
-- Casebook, Chapter 27
+Casebook, Chapter 27
