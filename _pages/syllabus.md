@@ -9,7 +9,7 @@ phone: 336-279-9334
 address1: 201 North Greene Street
 address2: Greensboro, North Carolina 27401
 course: Consumer Protection
-term: 'Winter 2020'
+term: 'Winter 2021'
 days: 'Mondays & Wednesdays, 3:15 - 5:00 pm'
 room: Room 204
 
