@@ -9,9 +9,9 @@ phone: 336-279-9334
 address1: 201 North Greene Street
 address2: Greensboro, North Carolina 27401
 course: Consumer Protection
-term: 'Winter 2019'
-days: 'Mondays & Wednesdays, 3:00 - 4:45 pm'
-room: Room 211
+term: 'Winter 2020'
+days: 'Mondays & Wednesdays, 3:15 - 5:00 pm'
+room: Room 204
 
 
 
@@ -32,17 +32,17 @@ Katherine Porter, Modern Consumer Law (Aspen 2016) ("Casebook")
 
 The Statutory Supplement to the Casebook ([download PDF]({{ site.baseurl }}/assets/class_materials/casebook/Porter-ConsumerLaw-StatutorySupplement2017.pdf)) contains the relevant statutory and regulatory provisions for each chapter. 
 
-The course website, [`emfink.net/ConsumerProtection`](https://www.emfink.net/ConsumerProtection), has [supplemental readings and materials](https://www.emfink.net/ConsumerProtection/materials/), as well as [links to statutes, regulations, and other resources](https://www.emfink.net/ConsumerProtection/links/). 
+The course website, [`emfink.net/ConsumerProtection`](https://www.emfink.net/ConsumerProtection), has supplemental readings and materials, along with links to statutes, regulations, and other resources. 
 
 # Policies 
 
 #### Grading
 
-Your final grade for the course will be based on written problem assignments (60%) and in-class performance (40%). There will be no final exam for this course. 
+Your final grade for the course will be based on written problem assignments (80% total) and in-class performance (20%). There will be no final exam for this course. 
 
 Written problem assignments are due on the dates indicated in the "Schedule & Assignments" section below. Please submit your completed problems to me by email (<efink@elon.edu>) as PDF documents, with file names in this format: `LastName-ProblemSetX.pdf`.
 
-Class sessions will be devoted primarily to discussion of  problems from the Casebook. The in-class performance component depends on your preparation before class (completing all assigned reading and reviewing problems for class discussion), regular and prompt class attendance, and constructive engagement during class. Elon Law School's standards and ABA guidance for awarding course credit assume at least two hours of out-of-class student work for each hour of classroom instruction.
+Class sessions will be devoted primarily to discussion of problems from the Casebook. The in-class performance component depends on your preparation before class (completing all assigned reading and reviewing problems for class discussion), regular and prompt class attendance, and constructive engagement during class. Elon Law School's standards and ABA guidance for awarding course credit assume at least two hours of out-of-class student work for each hour of classroom instruction.
 
 #### Attendance 
 
@@ -66,19 +66,19 @@ The Law School [honor code](https://www.elon.edu/e/law/student-experience/honor-
 
 ## Overview of Consumer Law 
 
-#### January 6
+#### January 4
 
 Casebook, Chapters 1, 2, & 3
 
 ## Solicitations 
 
-#### January 8
+#### January 6
 
 Casebook, Chapter 4
 
 ## Advertising 
 
-#### January 13
+#### January 11
 
 Casebook, Chapter 5
 
@@ -88,118 +88,114 @@ Advertisements (preview before class):
 - [Winston]({{ site.baseurl }}/assets/class_materials/advertising/winston_ad.jpg)
 - [Pepsi]({{ site.baseurl }}/assets/class_materials/advertising/PepsiAd.mp4)
 - [Silver Solution USA](http://bit.ly/37VESCu)
-  - Stephanie Haney, [Televangelist Jim Bakker is now hawking a 'silver gel' he claims can cure 'all venereal diseases' for $25 per bottle](https://dailym.ai/2teFpkb), The Daily Mail (June 24, 2018)
+- Stephanie Haney, [Televangelist Jim Bakker is now hawking a 'silver gel' he claims can cure 'all venereal diseases' for $25 per bottle](https://dailym.ai/2teFpkb), The Daily Mail (June 24, 2018)
 
 ##### Problem Set 1: 4.1 & 5.1 (Due January 15)
 
 ## Consumer Privacy & Identity Theft 
 
-#### January 15
+#### January 13
 
 Casebook, Chapter 6
 
 ## Credit Reporting
 
-#### January 22
+#### January 20
 
 Casebook, Chapter 7
 
 ## Credit Discrimination
 
-#### January 27
+#### January 25
 
 Casebook, Chapter 8
 
-##### Problem Set 2: 7.1 & 8.1 (Due January 29)
-
 ## Unfair or Deceptive Acts or Practices 
 
-#### January 29
+#### January 27
 
 Casebook, Chapter 9
 
 ## Warranties
 
-#### February 3
+#### February 1
 
 Casebook, Chapter 10
 
-##### Problem Set 3: 9.1 & 10.1 (Due February 5)
+##### Problem Set 2: 9.1 & 10.1 (Due February 5)
 
 ## The Cost of Credit 
 
-#### February 5
+#### February 3
 
 Casebook, Chapters 11 & 12
 
 ## Credit Cards
 
-#### February 10
+#### February 8
 
 Casebook, Chapter 15
 
 ## Banking Transactions
 
-#### February 12
+#### February 10
 
 Casebook, Chapter 19
 
 ## Online Transactions
 
-#### February 17
+#### February 15
 
 Casebook, Chapter 20
 
-##### Problem Set 4: 12.1 & 15.1 (Due February 19)
-
 ## Automobile Purchases
 
-#### February 19
+#### February 17
 
 Casebook, Chapter 16
 
 ## Payday & Student Loans
 
-#### February 24
+#### February 22
 
 Casebook, Chapters 17 & 18
 
-##### Problem Set 5: 16.1 & 17.1 (Due February 26)
+##### Problem Set 3: 16.1 & 17.1 (Due February 26)
 
 ## Creditor Remedies
 
-#### February 26
+#### February 24
 
 Casebook, Chapter 21
 
 ## Debtor Rights
 
-#### March 2
+#### March 1
 
 Casebook, Chapter 22 
 
 ## Debt Collection Abuses 
 
-#### March 4
+#### March 3
 
 Casebook, Chapter 23
 
 ## Public Enforcement
 
-#### March 9 
+#### March 8
 
 Casebook, Chapter 24
 
 ## Private Enforcement & Arbitration
 
-#### March 11
+#### March 10
 
 Casebook, Chapters 25 & 26
 
-##### Problem Set 6: 21.1 & 23.1 (Due March 13)
+##### Problem Set 4: 21.1 & 23.1 (Due March 12)
 
 ## The Future of Consumer Law 
 
-#### March 12
+#### March 15
 
 Casebook, Chapter 27
