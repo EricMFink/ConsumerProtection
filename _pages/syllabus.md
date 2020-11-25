@@ -19,6 +19,7 @@ output:
   pdf_document:
     latex_engine: xelatex
     template: syllabus.tex
+    path: /assets/pdf/syllabus.pdf
   
 ---
 
