@@ -4,9 +4,10 @@ baseurl: /ConsumerProtection # the subpath of your site, e.g. /blog/
 title: Consumer Protection
 description:  # leave blank if you don't want to display a description 
 name: Eric M. Fink
-last_updated: 25 November 2020 # leave blank if you don't want to display last updated
+last_updated: 3 January 2021 # leave blank if you don't want to display last updated
  
 author: Eric M. Fink
+position: Associate Professor
 institution: Elon Law School
 street: 201 North Greene Street
 city: Greensboro
@@ -14,7 +15,7 @@ state: North Carolina
 zip: '27401'
 email: efink@elon.edu
 phone: 336-279-9334
-
+web: emfink.net/ElonLaw
 
 collections: 
   cases: 
