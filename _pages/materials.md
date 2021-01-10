@@ -9,47 +9,47 @@ title: Additional Reading
 
 ## Advertising 
 
-- [Painter v. Blue Diamond Growers]({{ site.baseurl }}/assets/class_materials/advertising/Painter_v_Blue Diamond.pdf), CV 17-02235-SVW-AJW (C.D. Cal. May 24, 2017), aff'd  17-55901 (9th Cir. Dec. 20, 2018). 
-- [Ang. V. Whitewave Foods Co.]({{ site.baseurl }}/assets/class_materials/advertising/Ang_v_Whitewave.pdf), No. 13-cv-1953 (N.D. Cal. Dec. 10, 2013)
-- [Leonard v. Pepsico]({{ site.baseurl }}/assets/class_materials/advertising/Leonard_v_Pepsico.pdf), 88 F. Supp. 2d 116 (S.D.N.Y. 1999)
+- [Painter v. Blue Diamond Growers]({{ site.baseurl }}/assets/materials/advertising/Painter_v_Blue Diamond.pdf), CV 17-02235-SVW-AJW (C.D. Cal. May 24, 2017), aff'd  17-55901 (9th Cir. Dec. 20, 2018). 
+- [Ang. V. Whitewave Foods Co.]({{ site.baseurl }}/assets/materials/advertising/Ang_v_Whitewave.pdf), No. 13-cv-1953 (N.D. Cal. Dec. 10, 2013)
+- [Leonard v. Pepsico]({{ site.baseurl }}/assets/materials/advertising/Leonard_v_Pepsico.pdf), 88 F. Supp. 2d 116 (S.D.N.Y. 1999)
 
 ## Unfair & Deceptive Practices 
 
-- [Dugan v. TGI Friday's, Inc.]({{ site.baseurl }}/assets/class_materials/udap/Dugan_v_TGIF.pdf), 171 A. 3d 620 (N.J. 2017)
-- [Stahl v. Balsara]({{ site.baseurl }}/assets/class_materials/udap/Stahl_v_Balsara.pdf), 60 Haw. 144 (1978)
+- [Dugan v. TGI Friday's, Inc.]({{ site.baseurl }}/assets/materials/udap/Dugan_v_TGIF.pdf), 171 A. 3d 620 (N.J. 2017)
+- [Stahl v. Balsara]({{ site.baseurl }}/assets/materials/udap/Stahl_v_Balsara.pdf), 60 Haw. 144 (1978)
 
 # News & Scholarship
 
 ## Unfair & Deceptive Practices 
 
 - Laura M. Holson, [Match.com Used Fake Ads to Swindle Users, F.T.C. Says](https://www.nytimes.com/2019/09/25/us/match-com-lawsuit-ftc.html), N.Y. Times (Sept. 25, 2019)
-  - [FTC Complaint]({{ site.baseurl }}/assets/class_materials/advertising/FTC_v_MatchGroup.pdf), No. 3:19-cv-02281 (N.D. Tex. Sept. 25, 2019)
+  - [FTC Complaint]({{ site.baseurl }}/assets/materials/advertising/FTC_v_MatchGroup.pdf), No. 3:19-cv-02281 (N.D. Tex. Sept. 25, 2019)
 - Nicole Fisher, [America's Largest Retailer Sued for Selling Fake Medicine](http://bit.ly/35S7P0F), Forbes (May 31, 2019)
-  - Complaint, [Center for Inquiry v. WalMart]({{ site.baseurl }}/assets/class_materials/udap/CFI-v-Walmart.pdf), No. 2019-CA-003340-B (D.D.C. May 20, 2019)
-- Stephen Raher, [The Company Store and the Literally Captive Market: Consumer Law in Prisons and Jails]({{ site.baseurl }}/assets/class_materials/udap/Raher_TheCompanyStore.pdf), 17 Hasting Race and Povery Law Journal 3 (2020)
-- Jamie Luguri & Lior Strahilevitz, [Shining a Light on Dark Patterns]({{ site.baseurl }}/assets/class_materials/udap/Luguri & Strahilevitz - Dark Patterns & Consumer Law.pdf),  U of Chicago, Public Law Working Paper No. 719; University of Chicago Coase-Sandor Institute for Law & Economics Research Paper No. 879  (August 1, 2019)
+  - Complaint, [Center for Inquiry v. WalMart]({{ site.baseurl }}/assets/materials/udap/CFI-v-Walmart.pdf), No. 2019-CA-003340-B (D.D.C. May 20, 2019)
+- Stephen Raher, [The Company Store and the Literally Captive Market: Consumer Law in Prisons and Jails]({{ site.baseurl }}/assets/materials/udap/Raher_TheCompanyStore.pdf), 17 Hasting Race and Povery Law Journal 3 (2020)
+- Jamie Luguri & Lior Strahilevitz, [Shining a Light on Dark Patterns]({{ site.baseurl }}/assets/materials/udap/Luguri & Strahilevitz - Dark Patterns & Consumer Law.pdf),  U of Chicago, Public Law Working Paper No. 719; University of Chicago Coase-Sandor Institute for Law & Economics Research Paper No. 879  (August 1, 2019)
 
 ## Consumer Privacy 
 
-- Shoshana Zuboff, [Big Other: Surveillance Capitalism and the Prospects of an Information Civilization]({{ site.baseurl }}/assets/class_materials/privacy/Zuboff-BigOther.pdf), 30 Journal of Information Technology 75 (2015)
+- Shoshana Zuboff, [Big Other: Surveillance Capitalism and the Prospects of an Information Civilization]({{ site.baseurl }}/assets/materials/privacy/Zuboff-BigOther.pdf), 30 Journal of Information Technology 75 (2015)
 - John Naughton, ['The goal is to automate us': welcome to the age of surveillance capitalism](http://bit.ly/38c66os), The Guardian (Jan. 20, 2019)
 - David Glance, [Is it time to regulate targeted ads and the web giants that profit from them?](http://bit.ly/2toBIZa), The Conversation (Apr. 22, 2018)
 
 ## Credit Reporting 
 
-- Kelly Gates, [The Securitization of Financial Identity]({{ site.baseurl }}/assets/class_materials/credit_debt/Gates_SecuritizationOfFinancialIdentity.pdf), 20 Journal of Communication Inquiry 1 (2010)
-- Josh Lauer, [The Good Consumer: Credit Reporting & the Invention of Financial Identity in the United States, 1840-1940]({{ site.baseurl }}/assets/class_materials/credit_debt/Lauer_TheGoodConsumer.pdf), 11 Enterprise & Society 686 (2010)
+- Kelly Gates, [The Securitization of Financial Identity]({{ site.baseurl }}/assets/materials/credit_debt/Gates_SecuritizationOfFinancialIdentity.pdf), 20 Journal of Communication Inquiry 1 (2010)
+- Josh Lauer, [The Good Consumer: Credit Reporting & the Invention of Financial Identity in the United States, 1840-1940]({{ site.baseurl }}/assets/materials/credit_debt/Lauer_TheGoodConsumer.pdf), 11 Enterprise & Society 686 (2010)
 
 ## Payday Loans
 
 - CFPB, [Payday, Vehicle Tile, and Certain High-Cost Installment Loans: Final Rule](http://bit.ly/2TjwbxK). 82 Fed. Reg. 54472 (Oct. 5, 2017)
-- CFPB, [Payday Loans & Deposit Advance Products]({{ site.baseurl }}/assets/class_materials/credit_debt/CFPB_PaydayLoans.pdf) (2013)
+- CFPB, [Payday Loans & Deposit Advance Products]({{ site.baseurl }}/assets/materials/credit_debt/CFPB_PaydayLoans.pdf) (2013)
 
 ## Student Loans
 
 - U.S. Department of Education, [Student Assistance General Provisions, Final Regulations](http://bit.ly/2tdou1i), 84 Fed. Reg. 58834 (Nov. 1, 2019); [Press Release](http://bit.ly/3a513ba) (Oct. 31, 2019)
-- Louise Seamster & Raphaël Charron-Chénier, [Predatory Inclusion & Education Debt: Rethinking the Racial Wealth Gap]({{ site.baseurl }}/assets/class_materials/credit_debt/Seamster_PredatoryInclusion.pdf), 4 Social Currents 199 (2017)
-- Eric Fink & Roland Zullo, [Federal Student Loan Servicing: Contract Problems and Public Solutions]({{ site.baseurl }}/assets/class_materials/credit_debt/Fink-Zullo_StudentLoanServicing.pdf), Jobs With Justice Education Fund (2014)
+- Louise Seamster & Raphaël Charron-Chénier, [Predatory Inclusion & Education Debt: Rethinking the Racial Wealth Gap]({{ site.baseurl }}/assets/materials/credit_debt/Seamster_PredatoryInclusion.pdf), 4 Social Currents 199 (2017)
+- Eric Fink & Roland Zullo, [Federal Student Loan Servicing: Contract Problems and Public Solutions]({{ site.baseurl }}/assets/materials/credit_debt/Fink-Zullo_StudentLoanServicing.pdf), Jobs With Justice Education Fund (2014)
 
 ## Debt Collection
 
@@ -60,9 +60,9 @@ title: Additional Reading
 ## Sociology & Politics of Consumer Debt 
 
 - Hanna Appel, et al [The Power of Debt](http://bit.ly/2RcxzQ6), The Debt Collective (2019)
-- Rebecca Tippet, et al [Beyond Broke: Why Closing the Racial Wealth Gap is a Priority for National Economic Security]({{ site.baseurl }}/assets/class_materials/credit_debt/BeyondBroke.pdf), Duke Center for Global Policy Solutions (May 2014)
-- Greta R. Kruppner, [Democracy of Credit: Ownership & Politics of Credit Access in 20th Century America]({{ site.baseurl }}/assets/class_materials/credit_debt/Kruppner-DemocracyOfCredit.pdf),  123 American Journal of Sociology 1 (2017)
-- Kenneth Dyson, [The Morality of Debt: A History of Financial Saints & Sinners]({{ site.baseurl }}/assets/class_materials/credit_debt/Dyson-MoralityOfDebt.pdf), Foreign Affairs (May 3, 2015)
+- Rebecca Tippet, et al [Beyond Broke: Why Closing the Racial Wealth Gap is a Priority for National Economic Security]({{ site.baseurl }}/assets/materials/credit_debt/BeyondBroke.pdf), Duke Center for Global Policy Solutions (May 2014)
+- Greta R. Kruppner, [Democracy of Credit: Ownership & Politics of Credit Access in 20th Century America]({{ site.baseurl }}/assets/materials/credit_debt/Kruppner-DemocracyOfCredit.pdf),  123 American Journal of Sociology 1 (2017)
+- Kenneth Dyson, [The Morality of Debt: A History of Financial Saints & Sinners]({{ site.baseurl }}/assets/materials/credit_debt/Dyson-MoralityOfDebt.pdf), Foreign Affairs (May 3, 2015)
 
 ## Debtor Movements
 

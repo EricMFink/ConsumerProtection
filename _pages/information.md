@@ -13,7 +13,7 @@ This course surveys federal and state laws regulating consumer purchases and fin
 
 Katherine Porter, Modern Consumer Law (Aspen 2016) ("Casebook") 
 
-The Statutory Supplement to the Casebook ([download PDF]({{ site.baseurl }}/assets/class_materials/casebook/Porter-ConsumerLaw-StatutorySupplement2017.pdf)) contains the relevant statutory and regulatory provisions for each chapter. 
+The Statutory Supplement to the Casebook ([download PDF]({{ site.baseurl }}/assets/materials/casebook/Porter-ConsumerLaw-StatutorySupplement2017.pdf)) contains the relevant statutory and regulatory provisions for each chapter. 
 
 The course website, [`emfink.net/ConsumerProtection`](https://www.emfink.net/ConsumerProtection), has supplemental readings and materials, along with links to statutes, regulations, and other resources. 
 

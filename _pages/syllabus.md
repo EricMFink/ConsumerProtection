@@ -31,7 +31,7 @@ This course surveys federal and state laws regulating consumer purchases and fin
 
 Katherine Porter, Modern Consumer Law (Aspen 2016) ("Casebook") 
 
-The Statutory Supplement to the Casebook ([download PDF]({{ site.baseurl }}/assets/class_materials/casebook/Porter-ConsumerLaw-StatutorySupplement2017.pdf)) contains the relevant statutory and regulatory provisions for each chapter. 
+The Statutory Supplement to the Casebook ([download PDF](https://www.emfink.net/ConsumerProtection/assets/materials/casebook/Porter-ConsumerLaw-StatutorySupplement2017.pdf)) contains the relevant statutory and regulatory provisions for each chapter. 
 
 The course website, [`emfink.net/ConsumerProtection`](https://www.emfink.net/ConsumerProtection), has supplemental readings and materials, along with links to statutes, regulations, and other resources. 
 
@@ -85,9 +85,9 @@ Casebook, Chapter 5
 
 Advertisements (preview before class):
 
-- [L'Oreal]({{ site.baseurl }}/assets/class_materials/advertising/loreal_ad.jpg)
-- [Winston]({{ site.baseurl }}/assets/class_materials/advertising/winston_ad.jpg)
-- [Pepsi]({{ site.baseurl }}/assets/class_materials/advertising/PepsiAd.mp4)
+- [L'Oreal](https://www.emfink.net/ConsumerProtection/assets/materials/advertising/loreal_ad.jpg)
+- [Winston](https://www.emfink.net/ConsumerProtection/assets/materials/advertising/winston_ad.jpg)
+- [Pepsi](https://www.emfink.net/ConsumerProtection/assets/materials/advertising/PepsiAd.mp4)
 - [Silver Solution USA](http://bit.ly/37VESCu)
 - Stephanie Haney, [Televangelist Jim Bakker is now hawking a 'silver gel' he claims can cure 'all venereal diseases' for $25 per bottle](https://dailym.ai/2teFpkb), The Daily Mail (June 24, 2018)
 

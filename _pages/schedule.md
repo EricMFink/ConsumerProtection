@@ -25,9 +25,9 @@ Casebook, Chapter 5
 
 Advertisements (preview before class):
 
-- [L'Oreal]({{ site.baseurl }}/assets/class_materials/advertising/loreal_ad.jpg)
-- [Winston]({{ site.baseurl }}/assets/class_materials/advertising/winston_ad.jpg)
-- [Pepsi]({{ site.baseurl }}/assets/class_materials/advertising/PepsiAd.mp4)
+- [L'Oreal]({{ site.baseurl }}/assets/materials/advertising/loreal_ad.jpg)
+- [Winston]({{ site.baseurl }}/assets/materials/advertising/winston_ad.jpg)
+- [Pepsi]({{ site.baseurl }}/assets/materials/advertising/PepsiAd.mp4)
 - [Silver Solution USA](http://bit.ly/37VESCu)
 - Stephanie Haney, [Televangelist Jim Bakker is now hawking a 'silver gel' he claims can cure 'all venereal diseases' for $25 per bottle](https://dailym.ai/2teFpkb), The Daily Mail (June 24, 2018)
 
