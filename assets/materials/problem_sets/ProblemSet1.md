@@ -1,15 +1,16 @@
 ---
-date: Winter 2020
-course: Consumer Law
-assessment: Problem Set 1
+date: Winter 2021
+title: Consumer Law
+subtitle: Problem Set 1
 
-author: Eric M. Fink
-affiliation: Elon Law School 
+author: "Prof. Fink"
+
+columns: 2
 
 output: 
   pdf_document:
     latex_engine: xelatex
-    template: grading.tex
+    template: default.tex
     
 ---
 
@@ -35,6 +36,8 @@ output:
 - Rule: § 429.1(e)
 - Was this provided? 
   - If not, may toll the cancellation period
+
+\columnbreak
 
 # Problem 5.1
 
