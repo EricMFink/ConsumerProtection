@@ -1,34 +1,57 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html>
 
-<div class="page-container">
+{% include head.html %}
 
-<!-- syllabus header -->
-	<div class="page-header group">
-		<h1 class="page-title">{{ page.title }}</h1>
-		{% if page.subtitle %}
-		<h2 class="page-subtitle">{{ page.subtitle }}</h2>
-		{% endif %}
-		<a href='{{ site.baseurl }}/assets/pdf/syllabus.pdf'><button class='button syllabus smaller'>PDF</button></a>
-	</div>
+<body>
 
-<div class="syllabus">
+{% include syllabus-header.html %}
 
-	<h6>{{ site.data.course.subject }}</h6>
-	<h6>{{ site.data.author.institution }}</h6>
-	<h6>{{ site.data.course.term }}</h6>
-	<h6>{{ site.data.course.room }}</h6>
-	<h6>{{ site.data.course.meets }}</h6>
+	<article class="group">
+		<div class="page-container">
 
-	<br>
-	<h6>{{ site.data.author.name }}</h6>
-	<h6><a href="{{ site.data.author.email }}">{{ site.data.author.email }}</a></h6>
-	<h6>{{ site.data.author.phone }}</h6>
-	<h6>Office hours <a href=https://calendly.com/emfink />by appointment</a></h6>
+		<!-- syllabus header -->
+			<div class="page-header group">
+				<h1 class="page-title">{{ page.title }}</h1>
+				{% if page.subtitle %}
+				<h2 class="page-subtitle">{{ page.subtitle }}</h2>
+				{% endif %}
+				<a href='{{ site.baseurl }}/assets/pdf/syllabus.pdf'><button class='button syllabus smaller'>PDF</button></a>
+			</div>
 
-<!-- syllabus body -->
-	{{ content }}
+			<div class="syllabus">
 
-</div> 
-</div> 
+				<div class="course-info">
+
+					<p class="course-info">{{ site.course.subject }}</p>
+					<p class="course-info">{{ site.author.affiliation }}</p>
+					<p class="course-info">{{ site.course.term }}</p>
+					<p class="course-info">{{ site.course.room }}</p>
+					<p class="course-info">{{ site.course.meets }}</p>
+
+					<br>
+					<p class="course-info">Professor: {{ site.author.name }}</p>
+						<p class="course-info"><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></p>
+							<p class="course-info">{{ site.author.phone }}</p>
+								<p class="course-info">Office hours <a href=https://calendly.com/emfink />by appointment</a></p>
+
+					{% if site.ta %}
+					<br>
+					<p class="course-info">Teaching Assistant: {{ site.ta.name }}</p>
+					<p class="course-info"><a href="mailto:{{ site.ta.email }}">{{ site.ta.email }}</a></p>
+					{% endif %}
+
+				</div>
+
+			<!-- syllabus body -->
+				{{ content }}
+
+			</div> 
+		</div>
+	</article>
+
+{% include hemline.html %}
+	
+</body>
+
+</html>

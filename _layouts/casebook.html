@@ -1,26 +1,29 @@
 <!DOCTYPE html>
 <html>
+
 {% include head.html %}
 
-<body class="sidenotes">
-{% include header.html %}
-{% include print-header.html %}
+<body>
 
-<div class="page-container">
+{% include casebook-header.html %}
 
-    <div class="page-header group">
-    	{% if page.chapter %}
-        <h2 class="page-subtitle">{{ page.chapter }}</h2>
-        {% endif %}
-        <h1 class="page-title">{{ page.title }}</h1>
-    </div>
+<article class="group">
 
-    <article class="sidenotes-page">
-        {{ content }}
-    </article>
+<div class="casebook">
+
+<!--
+{% if page.chapter-number %}
+<p class="chapter-number">Chapter {{ page.chapter-number}}</p>
+{% endif %}
+<h1>{{ page.chapter-title}}</h1>
+-->
+
+{{ content }}
+
+</article>
 
 </div>
-	
+
 {% include hemline.html %}
 
 </body>
